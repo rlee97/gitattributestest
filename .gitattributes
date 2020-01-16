@@ -1,1 +1,7 @@
-* text=auto eol=crlf
+# source files
+* .c eol=crlf
+* .C eol=crlf
+* .h eol=crlf
+* .tbl eol=crlf
+* .B eol=crlf
+* .TAB eol=crlf
